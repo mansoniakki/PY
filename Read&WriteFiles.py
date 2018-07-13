@@ -1,0 +1,11 @@
+print("###########Writing a File#####################")
+fw = open('c:\Attunity\MyNewFile.txt', 'w')
+fw.write('This is first line of my file\n')
+fw.write('We have reached to second line\n')
+fw.close()
+
+print("##########Read a File#############")
+fr = open('c:\Attunity\MyNewFile.txt','r')
+text=fr.read()
+print(text)
+fr.close()
