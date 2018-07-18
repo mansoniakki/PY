@@ -1,7 +1,7 @@
 ########################################
-# Test Script
+# Test Script Modified ini Future Branch
 ########################################
-str="Hello World!"
+str="Hello World! Future"
 print("String is: %s" %str)
 ##
 print("String Length is: %d" %len(str))
