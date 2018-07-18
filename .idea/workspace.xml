@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02572569-2989-4d0e-bca3-8eab87e57317" name="Default" comment="commitingsxs">
-      <change afterPath="$PROJECT_DIR$/DownloadRegFileFromWeb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/If_the_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List_Class_Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyModules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Read&amp;WriteFiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reverse_Input_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloadimage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/range_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slicing_in_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuple_examp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuple_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex33.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex33.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,23 +62,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="py" type="cbb8eebc:String" user="py" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,18 +247,18 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3374036" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34190232" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5025707" side_tool="true" weight="0.33791208" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974293" weight="0.33746555" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974293" weight="0.33746555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -609,15 +594,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex18_func.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Reverse_Input_String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex33.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
