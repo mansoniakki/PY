@@ -22,3 +22,10 @@ print("There we go: ", stuff)
 print(' '.join(stuff))
 
 print('#'.join(stuff[3:6]))
+
+ml=['Mangal','Kamal']
+print("My List", ml)
+
+joinlist = '##'.join(ml)
+
+print ("Joined List: ", joinlist)
