@@ -4,7 +4,7 @@ while ctr > 0:
     print("Counting Down: ", ctr)
     ctr -= 1
 
-names=['Tom', 'Mangal','Kamal']
+names=['Tom', 'Mangal','Kamal', 'Shinaa','Rojana']
 while names:
     print("first person to go: ", names.pop())
 
